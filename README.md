@@ -62,16 +62,3 @@ Test cases included:
 9. Jam detection
 
 Simulation waveforms were analyzed to verify FSM transitions and output signals.
-
-## Project Structure
-
-```text
-RTL/
-    airport_baggage_controller.sv
-
-Simulation/
-    Airport_Baggage_Controller.vwf
-    screenshots/
-
-Report/
-    Airport_Baggage_Controller_Report.pdf
